@@ -86,15 +86,15 @@ Every session I deliver ships with its code — clone it, run it, adapt it.
 
 ## 🛠 Stack
 
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-5C2D91?style=flat-square&logo=microsoftazure&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=powerapps&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865?style=flat-square&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=flat-square)
+![Microsoft Foundry](https://img.shields.io/badge/Microsoft_Foundry-5C2D91?style=flat-square)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=flat-square)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-117865?style=flat-square)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SPFx](https://img.shields.io/badge/SPFx-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
+![SPFx](https://img.shields.io/badge/SPFx-0078D4?style=flat-square)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
